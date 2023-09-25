@@ -20,5 +20,8 @@ public class name_of_day {
         } else if (no_of_day == 7) {
             System.out.println("Saturday");
         }
+        else{
+            System.out.println("Error");
+        }
     }
 }
