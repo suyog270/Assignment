@@ -7,10 +7,10 @@ public class login_page {
         String password = "Sifal";
 
         System.out.println("Enter username: ");
-        String user = username.next()
+        String user = login.next();
 
         System.out.println("Enter password: ");
-        String pass = username.nextLine();
+        String pass = login.next();
 
         if (user.equals(username) && password.equals(pass)){
             System.out.println("Successfully logged in");

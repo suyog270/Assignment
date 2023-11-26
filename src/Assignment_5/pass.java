@@ -22,9 +22,6 @@ public class pass{
             }if(b==a){
                 System.out.println("Try again later!");
             }
-
         }
-
-
     }
 }
