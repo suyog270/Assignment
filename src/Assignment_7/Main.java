@@ -1,3 +1,5 @@
+package Assignment_7;
+
 import Assignment_7.Student;
 
 import java.util.Scanner;
